@@ -1,16 +1,10 @@
 # desafio_esig
 
-A new Flutter application.
+Instruções
 
 ## Getting Started
+ Este aplicativo foi desenvolvido usando a tecnologia Flutter do Google com acesso ao banco de dados MySQL
+ 
+ Para que seja executado em um ambiente local deve-se copiar, colar e extrair a pasta listaitens dentro do seguinte endereço local:
+ **C:\xampp\htdocs** 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.

@@ -9,6 +9,6 @@ Instruções
  **C:\xampp\htdocs** 
  
  
- ** git remote add origin https://github.com/wtonfds/teste2.git
- ** git push -u origin master
+ ** git remote add origin https://github.com/wtonfds/teste2.git **
+ ** git push -u origin master **
 
